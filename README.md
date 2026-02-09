@@ -1,5 +1,13 @@
 # Trabalho Final de Desenvolvimento de API Restful
 
+Sobre o projeto:
+- Este projeto foi desenvolvido como parte do trabalho final da disciplina de Desenvolvimento de API Restful.
+O objetivo é implementar uma aplicação completa com autenticação, autorização, documentação e boas práticas de desenvolvimento utilizando Spring e recursos aprendidos em aula.
+
+Modelagem do banco de dados:
+
+<img width="922" height="761" alt="Captura de tela 2026-02-09 115640" src="https://github.com/user-attachments/assets/5239c04d-e72f-485f-b5fa-b5770597baa5" />
+
 Requisitos:
 - Desenvolver as classes de domínio/modelo da aplicação.
 - Desenvolver a criação do banco de dados (O banco de dados a ser escolhido
